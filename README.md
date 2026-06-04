@@ -2,9 +2,9 @@
 
 A modern student learning dashboard built for the Next-Gen Learning Dashboard Frontend Intern Challenge using Next.js, Supabase, Tailwind CSS, and Framer Motion.
 
-🚀 **Live Demo:** https://learning-dashboard-two-gamma.vercel.app/
+**Live Demo:** https://learning-dashboard-two-gamma.vercel.app/
 
-📂 **GitHub Repository:** https://github.com/Bhoomika7444/learning_dashboard
+**GitHub Repository:** https://github.com/Bhoomika7444/learning_dashboard
 
 ## Features
 
